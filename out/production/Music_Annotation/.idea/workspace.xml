@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="951ff780-8a2a-48e8-ac64-e438ff6f6d08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Music_Annotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Music_Annotation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Music_Annotation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Music_Annotation/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="marlin2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Music/APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Music/Staff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/Music2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2166">
+              <caret line="130" column="59" selection-start-line="130" selection-start-column="59" selection-end-line="130" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/Music1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="65" column="60" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/UC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Music/Head.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/ShapeTrainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Reaction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Gesture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>unStemH</find>
+      <find>public static class Stem</find>
+      <find>public void act</find>
+      <find>x()</find>
+      <find>public int x</find>
+      <find>yBeamENd</find>
+      <find>class Head</find>
+      <find>void unSt</find>
+      <find>void unStem</find>
+      <find>setPo</find>
+      <find>Stem</find>
+      <find>Head</find>
+      <find>Time</find>
+      <find>Rest</find>
+      <find>Dura</find>
+      <find>Bar</find>
+      <find>Sys</find>
+      <find>getS</find>
+      <find>remove</find>
+      <find>showAt</find>
+      <find>get</find>
+      <find>DB</find>
+      <find>Gesture</find>
+      <find>addReaction</find>
+      <find>DOT</find>
+      <find>ILLEGAL</find>
+      <find>name is</find>
+      <find>E-S</find>
+      <find>addRea</find>
+      <find>E-W</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/marlin/sandbox/PaintInk.java" />
+        <option value="$PROJECT_DIR$/src/marlin/reaction/Ink.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Ink_Source.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Ink.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/PaintInk.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/ShapeTrainer.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Layer.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Gesture.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/SimpleReaction.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Reaction.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Shape.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Reaction/Mass.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/Squares.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/test.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Glyph.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Music1.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/test.java" />
+        <option value="$PROJECT_DIR$/src/marlin/graphicsLib/G_Source.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Rest.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Duration.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Time.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Stem.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Beam.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Page.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Head.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Sys.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Bar.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/Staff.java" />
+        <option value="$PROJECT_DIR$/src/marlin/music/APP.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Beam.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Duration.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Glyph.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Head.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Page.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Rest.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Stem.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Time.java" />
+        <option value="$PROJECT_DIR$/src/marlin/I.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/APP.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Staff.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Sys.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/Music1.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Music/Bar.java" />
+        <option value="$PROJECT_DIR$/src/marlin/UC.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/Music2.java" />
+        <option value="$PROJECT_DIR$/src/marlin/graphicsLib/G.java" />
+        <option value="$PROJECT_DIR$/src/marlin/Sandbox/Spline.java" />
+        <option value="$PROJECT_DIR$/src/Music_Annoation/Music/Glyph.java" />
+        <option value="$PROJECT_DIR$/src/Music_Annoation/UC.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Music_Annotation/Sandbox/Music2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Music_Annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Music_Annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Music_Annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Music_Annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="Music" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Music_Annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="Reaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Music_Annotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Music_Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="Sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551139524883" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="marlin.sandbox" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Music_Annotation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="951ff780-8a2a-48e8-ac64-e438ff6f6d08" name="Default Changelist" comment="" />
+      <created>1537379004575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537379004575</updated>
+      <workItem from="1543257205750" duration="8423000" />
+      <workItem from="1543427731267" duration="7106000" />
+      <workItem from="1550518136833" duration="259000" />
+      <workItem from="1551139041108" duration="88000" />
+      <workItem from="1551139160381" duration="175000" />
+      <workItem from="1551139565012" duration="2622000" />
+      <workItem from="1551293637690" duration="294000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1541010079055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541010079055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1541617461410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541617461410</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18967000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49686846" visible="true" weight="0.20436187" />
+      <window_info id="Structure" order="1" sideWeight="0.50364965" side_tool="true" weight="0.18659128" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5031315" side_tool="true" weight="0.18901454" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.4985694" weight="0.32846716" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4909478" visible="true" weight="0.28759125" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5071531" side_tool="true" weight="0.16746987" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49284694" weight="0.1649635" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Shape.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/marlin/graphicsLib/G_Source.java" />
+    <entry file="file://$PROJECT_DIR$/src/marlin/Sandbox/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Sandbox/Squares.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Reaction/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Reaction/Mass.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Reaction/Gesture.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="486" column="57" selection-start-line="486" selection-start-column="51" selection-end-line="486" selection-end-column="57" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Beam.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Duration.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Head.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Rest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Stem.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Time.java" />
+    <entry file="file://$PROJECT_DIR$/src/marlin/Music/Page.java" />
+    <entry file="file://$PROJECT_DIR$/sinfonia.ttf">
+      <provider selected="true" editor-type-id="fontseditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Sandbox/Music1.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="103" column="22" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Sys.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/I.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Staff.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Bar.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="775" column="19" selection-start-line="775" selection-start-column="19" selection-end-line="775" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Sandbox/Spline.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/Glyph.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Sandbox/ShapeTrainer.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Sandbox/Music2.java" />
+    <entry file="file://$PROJECT_DIR$/Music_Annoation.iml" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/Music/APP.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/graphicsLib/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/graphicsLib/G.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annoation/UC.java" />
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/graphicsLib/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/Paint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/PaintInk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/SimpleReaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Layer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Ink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-673">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Mass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="553" column="13" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Music/APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Music/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/Music2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2166">
+          <caret line="130" column="59" selection-start-line="130" selection-start-column="59" selection-end-line="130" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/UC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Music/Head.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/ShapeTrainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Reaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Reaction/Gesture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Music_Annotation/Sandbox/Music1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="65" column="60" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>marlin2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
