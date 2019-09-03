@@ -1,5 +1,9 @@
 import Music_Annotation.Sandbox.Music2;
+import Music_Annotation.Sandbox.PaintInk;
 import Music_Annotation.Sandbox.ShapeTrainer;
+import Music_Annotation.Sandbox.SimpleReaction;
+import Music_Annotation.Sandbox.Spline;
+import Music_Annotation.Sandbox.Squares;
 import Music_Annotation.graphicsLib.Window;
 
 public class Main {
