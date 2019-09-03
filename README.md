@@ -24,6 +24,11 @@ By using different mouse dragging gesture, the user can paint the music tabs on 
 
    d. Press ```Enter``` to confirm the gesture and continue the next.
    
-####    Demo
-![demo](./demo.gif)
+   Shape Trainning Demo
+####    
+![demo](./ShapeTrainningDemo.gif)
+
+  Music Notation Demo
+![demo](./MusicNotationDemo.gif)
+
 
