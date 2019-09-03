@@ -11,7 +11,7 @@ public class UC {
     public static int noMatchDist = 500000;//Based on norm sample size of 200 and coord Max of 500
     public static Color inkColor = Color.BLUE;
     public static final int dotThreshold = 6;
-    public static final String shapeDBFileName = "ShapeDB.bin";
+    public static final String shapeDBFileName = "/Users/sihuafang/Desktop/MusaicNotation/MusicNotation/ShapeDB.bin";
     public static int noBid = 10000;
     public static int defaultStaffLineSpace = 8;
     public static int barToMarginSnap = 20;
