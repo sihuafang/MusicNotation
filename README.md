@@ -29,6 +29,7 @@ By using different mouse dragging gesture, the user can paint the music tabs on 
 ![demo](./ShapeTrainningDemo.gif)
 
   Music Notation Demo
+####
 ![demo](./MusicNotationDemo.gif)
 
 
